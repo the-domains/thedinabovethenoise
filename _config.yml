@@ -1,0 +1,28 @@
+name: The Din Above the Noise
+favicon: null
+layout_spectrum: 0.061322410590946674
+typography_spectrum: 0.5458598469849676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38277207990176976
+  lightness: 0.44853875949047506
+  saturation: 0.13387955352663994
+  rhythmicContrast: 0.24673370528034866
+purpose: []
